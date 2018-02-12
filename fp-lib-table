@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name badge)(type KiCad)(uri "$(KIPRJMOD)/badge.pretty")(options "")(descr ""))
   (lib (name graphics)(type KiCad)(uri "$(KIPRJMOD)/graphics.pretty")(options "")(descr ""))
+  (lib (name TestPoint)(type KiCad)(uri "$(KIPRJMOD)/TestPoint.pretty")(options "")(descr ""))
 )

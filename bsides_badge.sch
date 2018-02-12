@@ -92,7 +92,7 @@ U 1 1 5A7DAEB3
 P 1350 1850
 F 0 "J1" H 1350 2650 50  0000 C CNN
 F 1 "Conn_01x16" H 1350 950 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x16_Pitch2.54mm" H 1350 1850 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 1350 1850 50  0001 C CNN
 F 3 "" H 1350 1850 50  0001 C CNN
 	1    1350 1850
 	-1   0    0    -1  
@@ -135,7 +135,7 @@ U 1 1 5A7DB853
 P 2450 2750
 F 0 "J2" H 2450 2850 50  0000 C CNN
 F 1 "Conn_01x01" H 2450 2650 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 2450 2750 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_2.0x2.0mm" H 2450 2750 50  0001 C CNN
 F 3 "" H 2450 2750 50  0001 C CNN
 	1    2450 2750
 	1    0    0    -1  
