@@ -9,8 +9,8 @@ Bsides 2018
 
 # SVGs
 
-![alt text](svgs\top.svg)
-![alt text](svgs\bottom.svg)
+![alt text](svgs/top.svg)
+![alt text](svgs/bottom.svg)
 
 # Kicad screenshots
 
